@@ -12,5 +12,7 @@
 # Include to enable git clone to be used as npm package
 !/lib/*.d.ts
 !/lib/*.js
+!/parsers/*.d.ts
+!/parsers/*.js
 !/main.d.ts
 !/main.js
