@@ -9,3 +9,8 @@
 *.d.ts
 # Except...
 !/types/**/*.d.ts
+# Include to enable git clone to be used as npm package
+!/lib/*.d.ts
+!/lib/*.js
+!/main.d.ts
+!/main.js
